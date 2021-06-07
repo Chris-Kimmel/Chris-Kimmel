@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a recent Ohio State graduate who does genetic data analysis for a virus laboratory.
+
 <!--
 **Chris-Kimmel/Chris-Kimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
