@@ -2,7 +2,7 @@
 
 I'm a recent Ohio State graduate who does genetic data analysis for a virus laboratory.
 
-The alpaca in my profile picture is not my own.
+The alpaca in the picture is not my own.
 
 <!--
 **Chris-Kimmel/Chris-Kimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
